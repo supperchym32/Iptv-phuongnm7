@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="S8 TV",10:10 25/10 LIVE Pumas U.N.A.M.
+#EXTINF:-1 group-title="S8 TV",15:00 25/10 LIVE Arema FC
 https://media.lauthaitv.site/hls/0542ad8d-1129-454e-b8e1-56e2852582ea/attempt-1/master.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",17:45 25/10 SẮP DIỄN RA Russian Premier League FK Rostov VS Lokomotiv Moscow 21:00 25/10 SẮP DIỄN RA English Premier League Crystal Palace VS Newcastle United Góc nhìn trận đấu Sydney FC vs Adelaide United Sydney FC chạm trán Adela
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",12:00 25/10/2026 theo giờ Việt Nam tại Japanese J1 League. Đây là trang dành cho người hâm mộ muốn bám sát cuộc hẹn trên sân cỏ từ lúc chờ đội hình xuất hiện cho tới khi tỷ số cuối cùng được xác nhận. Tên cặp đấu và giờ thi đấu đượ
-https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",23:15 25/10 SẮP DIỄN RA French Ligue 1 Marseille VS Havre Athletic Club 03:30 26/10 SẮP DIỄN RA Portuguese Primera Liga Sporting CP VS Viseu 19:00 26/10 SẮP DIỄN RA Indonesian Super League Persebaya Surabaya VS Madura United 23:00
+https://live2.zktsva.app/live/796315.m3u8
