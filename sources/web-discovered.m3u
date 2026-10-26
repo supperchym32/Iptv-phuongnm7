@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="S8 TV",19:00 26/10 LIVE Persebaya Surabaya
+#EXTINF:-1 group-title="S8 TV",01:30 27/10 LIVE Galatasaray
 https://media.lauthaitv.site/hls/0542ad8d-1129-454e-b8e1-56e2852582ea/attempt-1/master.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",03:00 27/10 SẮP DIỄN RA France Football Lễ Trao Giải VS Quả Bóng Vàng 2026 17:00 27/10 SẮP DIỄN RA AFC Champions League Elite Kyoto Sanga VS Newcastle Jets 01:15 28/10 SẮP DIỄN RA AFC Champions League Elite Al-Shamal Sports Club VS
+#EXTINF:-1 group-title="Gà Vàng 33 TV",17:00 27/10 SẮP DIỄN RA AFC Champions League Elite Kyoto Sanga VS Newcastle Jets 01:15 28/10 SẮP DIỄN RA AFC Champions League Elite Al-Shamal Sports Club VS Al Hilal 17:00 28/10 SẮP DIỄN RA J.League Yamazaki Biscuit Levain Cup Mito
 https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",02:30 27/10 SẮP DIỄN RA French Ligue 1 Paris Saint Germain VS Lyon 19:15 27/10 SẮP DIỄN RA AFC Champions League Elite Ratchaburi FC VS Kashiwa Reysol 00:00 28/10 SẮP DIỄN RA DFB Pokal Hamburger SV VS Eintracht Frankfurt 02:45 28/10
+#EXTINF:-1 group-title="Gà Vàng 33 TV",19:15 27/10 SẮP DIỄN RA AFC Champions League Elite Ratchaburi FC VS Kashiwa Reysol 00:00 28/10 SẮP DIỄN RA DFB Pokal Hamburger SV VS Eintracht Frankfurt 02:45 28/10 SẮP DIỄN RA English Football League Cup Bradford City VS Peterboro
 https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",21:00 27/10 SẮP DIỄN RA GCC Champions League Kazma VS Ajman 06:00 28/10 SẮP DIỄN RA Categoría Primera A Cucuta Deportivo VS Aguilas Doradas 19:15 28/10 SẮP DIỄN RA AFC Champions League Two Persib Bandung VS Melbourne Victory 23:00
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",20:00 27/10 SẮP DIỄN RA Portuguese U23 League Moreirense U23 VS Gil Vicente U23 23:00 27/10 SẮP DIỄN RA AFC Champions League Elite Shabab Al Ahli VS Esteghlal Tehran 02:45 28/10 SẮP DIỄN RA Italian Serie A Torino VS Como 17:00 28/1
+https://live2.zktsva.app/live/741294.m3u8
