@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="S8 TV",06:00 02/11 LIVE Santos Laguna
+#EXTINF:-1 group-title="S8 TV",15:00 02/11 LIVE Central Stallions
 https://media.lauthaitv.site/hls/0542ad8d-1129-454e-b8e1-56e2852582ea/attempt-1/master.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",02:45 03/11 SẮP DIỄN RA French Ligue 1 Lorient VS Stade Brestois 29 05:00 03/11 SẮP DIỄN RA Argentine Division 1 CA Platense VS CA Central Cordoba SDE 22:00 03/11 SẮP DIỄN RA UEFA Youth League Atletico de Madrid U19 VS Bayern Munch
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",09:45 02/11 SẮP DIỄN RA United States Major League Soccer Portland Timbers VS Houston Dynamo 18:00 02/11 SẮP DIỄN RA Ukrainian Premier League Kryvbas VS Dynamo Kyiv 21:40 02/11 SẮP DIỄN RA Saudi Arabia Division 1 Al Jeel VS Al Najm
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",20:45 02/11 SẮP DIỄN RA AFC Champions League Elite Pakhtakor VS Al Nassr 07:15 03/11 SẮP DIỄN RA Argentine Division 1 Independiente Rivadavia VS CA Banfield 12:50 03/11 SẮP DIỄN RA Japanese J2 League FC Imabari VS Hokkaido Consadol
-https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",22:00 02/11 SẮP DIỄN RA Russian Premier League Krylya Sovetov VS Zenit St. Petersburg 03:00 03/11 SẮP DIỄN RA Spanish La Liga RC Deportivo VS CA Osasuna 20:00 03/11 SẮP DIỄN RA UEFA Youth League Manchester United U19 VS AS Roma U19
+https://live2.zktsva.app/live/303098.m3u8
