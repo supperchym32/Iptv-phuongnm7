@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="S8 TV",15:00 02/11 LIVE Central Stallions
+#EXTINF:-1 group-title="S8 TV",00:00 03/11 LIVE Genclerbirligi
 https://media.lauthaitv.site/hls/0542ad8d-1129-454e-b8e1-56e2852582ea/attempt-1/master.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",22:00 02/11 SẮP DIỄN RA Russian Premier League Krylya Sovetov VS Zenit St. Petersburg 03:00 03/11 SẮP DIỄN RA Spanish La Liga RC Deportivo VS CA Osasuna 20:00 03/11 SẮP DIỄN RA UEFA Youth League Manchester United U19 VS AS Roma U19
-https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",17:00 03/11 SẮP DIỄN RA AFC Champions League Elite Kashiwa Reysol VS Daejeon Hana Citizen 00:45 04/11 SẮP DIỄN RA UEFA Champions League FC Shakhtar Donetsk VS Sporting CP 03:00 04/11 SẮP DIỄN RA UEFA Champions League Feyenoord VS I
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",19:15 03/11 SẮP DIỄN RA AFC Champions League Elite Cong An Ha Noi FC VS Kyoto Sanga 03:00 04/11 SẮP DIỄN RA UEFA Champions League Manchester United VS AS Roma 17:00 04/11 SẮP DIỄN RA AFC Champions League Two FC Seoul VS The Cong-Vi
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",17:00 03/11 SẮP DIỄN RA AFC Champions League Elite Vissel Kobe VS Ratchaburi FC 19:15 04/11 SẮP DIỄN RA AFC Champions League Elite Buriram United VS Kashima Antlers Góc nhìn trận đấu Genclerbirligi vs Alanyaspor Genclerbirligi chạm
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",14:45 03/11 SẮP DIỄN RA AFC Champions League Elite Newcastle Jets VS Shanghai Port 22:00 03/11 SẮP DIỄN RA UEFA Youth League Barcelona U19 VS Aston Villa U19 01:15 04/11 SẮP DIỄN RA AFC Champions League Elite Al Hilal VS Shabab Al
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",23:00 03/11 SẮP DIỄN RA AFC Champions League Elite Esteghlal Tehran VS Al-Shamal Sports Club 03:00 04/11 SẮP DIỄN RA UEFA Champions League FK Bodo/Glimt VS LOSC Lille 22:30 04/11 SẮP DIỄN RA UEFA Europa League Stade Rennais FC VS O
+https://live2.zktsva.app/live/289650.m3u8
