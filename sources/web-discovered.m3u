@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="S8 TV",Sports live
+#EXTINF:-1 group-title="S8 TV",05:30 04/11 LIVE Chapecoense SC
 https://media.lauthaitv.site/hls/0542ad8d-1129-454e-b8e1-56e2852582ea/attempt-1/master.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",18:00 04/11 SẮP DIỄN RA UEFA Youth League Fenerbahce U19 VS Liverpool U19 23:00 04/11 SẮP DIỄN RA AFC Champions League Two Al-Rayyan Sports Club VS Al Nahda SC 01:15 05/11 SẮP DIỄN RA AFC Champions League Two Al Taawoun VS Al-Faisa
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",03:00 04/11 SẮP DIỄN RA UEFA Champions League Feyenoord VS Inter Milan 03:00 05/11 SẮP DIỄN RA UEFA Champions League RC Lens VS Como 17:00 05/11 SẮP DIỄN RA AFC Champions League Two Machida Zelvia VS Shanghai Shenhua Góc nhìn trận
-https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",05:30 05/11 SẮP DIỄN RA Brazilian Serie A Flamengo - RJ VS Grêmio - RS 08:30 05/11 SẮP DIỄN RA Categoría Primera A Millonarios VS America de Cali 20:30 05/11 SẮP DIỄN RA Uzbekistan Super League Bunyodkor VS Xorazm Urganch Góc nhìn
+https://live2.zktsva.app/live/796315.m3u8
