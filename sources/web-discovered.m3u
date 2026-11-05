@@ -1,13 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="S8 TV",17:00 05/11 LIVE Kitchee
+#EXTINF:-1 group-title="S8 TV",00:45 06/11 LIVE Real Sociedad
 https://media.lauthaitv.site/hls/0542ad8d-1129-454e-b8e1-56e2852582ea/attempt-1/master.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",03:00 06/11 SẮP DIỄN RA UEFA Europa League Bayer 04 Leverkusen VS Marseille 21:00 06/11 SẮP DIỄN RA Indian Super League FC Goa VS Bengaluru FC 02:30 07/11 SẮP DIỄN RA Bundesliga Hamburger SV VS Borussia Monchengladbach 21:30 07/11
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",21:00 05/11 SẮP DIỄN RA Indian Super League Mohun Bagan Super Giant VS Odisha FC 00:45 06/11 SẮP DIỄN RA UEFA Europa League Real Sociedad VS Lyon 19:00 06/11 SẮP DIỄN RA Thai League 1 Lamphun Warriors VS Sukhothai FC 00:30 07/11 SẮ
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",21:00 05/11 SẮP DIỄN RA SAFF Championship Bhutan VS Bangladesh 00:45 06/11 SẮP DIỄN RA UEFA Champions League Trabzonspor VS SC Freiburg 03:00 06/11 SẮP DIỄN RA UEFA Europa League RC Celta VS Union Saint-Gilloise 19:00 06/11 SẮP DIỄ
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",07:30 06/11 SẮP DIỄN RA Brazilian Serie A Cruzeiro - MG VS Bahia - BA 15:40 06/11 SẮP DIỄN RA Australia A-League Sydney FC VS Central Coast Mariners 08:00 07/11 SẮP DIỄN RA Mexico Liga MX Necaxa VS Club Tijuana 11:00 07/11 SẮP DIỄN
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",00:45 06/11 SẮP DIỄN RA UEFA Europa League Anderlecht VS Red Bull Salzburg 03:00 06/11 SẮP DIỄN RA UEFA Europa League Benfica VS Lech Poznan 18:00 06/11 SẮP DIỄN RA Vietnam National Champion League Dong Nai VS SHB Da Nang 03:45 07/
+#EXTINF:-1 group-title="Gà Vàng 33 TV",03:00 06/11 SẮP DIỄN RA UEFA Champions League AS Monaco VS Nordsjaelland 21:00 06/11 SẮP DIỄN RA Azerbaijan Premier League Qarabag VS Turan Tovuz 02:45 07/11 SẮP DIỄN RA French Ligue 1 Toulouse FC VS RC Strasbourg Alsace 19:30 07/1
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",03:00 06/11 SẮP DIỄN RA UEFA Europa League Celtic FC VS Besiktas JK 18:00 06/11 SẮP DIỄN RA Vietnam National Champion League Hong Linh Ha Tinh VS Thep Xanh Nam Dinh FC 11:00 07/11 SẮP DIỄN RA Japanese J1 League Shimizu S-Pulse VS T
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",03:00 06/11 SẮP DIỄN RA UEFA Champions League Getafe VS Brighton Hove Albion 21:15 06/11 SẮP DIỄN RA Qatar Stars League Al-Arabi Sports Club VS Al-Ahli Sports Club(Qatar) 03:00 07/11 SẮP DIỄN RA English Premier League Everton VS Co
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",15:00 06/11 SẮP DIỄN RA Australia W-League Adelaide United Women VS Wellington Phoenix Women 19:45 06/11 SẮP DIỄN RA United Arab Emirates Division 1 Group A Al Thaid VS Emirates Club 22:30 06/11 SẮP DIỄN RA Romanian Super Liga FC U
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",03:00 06/11 SẮP DIỄN RA UEFA Europa League Benfica VS Lech Poznan 18:00 06/11 SẮP DIỄN RA Vietnam National Champion League Dong Nai VS SHB Da Nang 03:45 07/11 SẮP DIỄN RA Portuguese Primera Liga FC Famalicao VS FC Arouca 15:40 07/1
 https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",03:00 06/11 SẮP DIỄN RA UEFA Europa League RC Celta VS Union Saint-Gilloise 19:00 06/11 SẮP DIỄN RA Indonesian Super League Madura United VS Arema FC 00:00 07/11 SẮP DIỄN RA Turkish Super League Gaziantep Futbol Kulübü VS Kasimpasa
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",19:00 06/11 SẮP DIỄN RA Thai League 1 Lamphun Warriors VS Sukhothai FC 00:30 07/11 SẮP DIỄN RA German Bundesliga 2 Dynamo Dresden VS SpVgg Greuther Fürth 12:00 07/11 SẮP DIỄN RA Korean K League 1 Jeju SK FC VS Gwangju Football Club
+https://live2.zktsva.app/live/289650.m3u8
