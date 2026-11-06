@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="S8 TV",Sports live
+#EXTINF:-1 group-title="S8 TV",21:15 06/11 LIVE Al-Arabi SC
 https://media.lauthaitv.site/hls/0542ad8d-1129-454e-b8e1-56e2852582ea/attempt-1/master.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",19:45 06/11 SẮP DIỄN RA United Arab Emirates Division 1 Group A Al Thaid VS Emirates Club 22:30 06/11 SẮP DIỄN RA Romanian Super Liga FC UT Arad VS Petrolul Ploiesti 00:30 07/11 SẮP DIỄN RA German Bundesliga 2 Eintracht Braunschwei
+#EXTINF:-1 group-title="Gà Vàng 33 TV",03:00 07/11 SẮP DIỄN RA English Premier League Everton VS Coventry City 14:30 07/11 SẮP DIỄN RA Korean K League 1 Gimcheon Sangmu Football Club VS FC Anyang 13:00 08/11 SẮP DIỄN RA Japanese J1 League Gamba Osaka VS Cerezo Osaka 21:
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",00:30 07/11 SẮP DIỄN RA German Bundesliga 2 Eintracht Braunschweig VS Energie Cottbus 13:00 07/11 SẮP DIỄN RA Japanese J1 League FC Tokyo VS Kashima Antlers 17:45 07/11 SẮP DIỄN RA Australia A-League Perth Glory VS Newcastle Jets 2
 https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",02:45 07/11 SẮP DIỄN RA Italian Serie A Venezia VS Udinese 18:00 07/11 SẮP DIỄN RA Vietnam National Champion League Ninh Binh FC VS Bac Ninh 21:00 07/11 SẮP DIỄN RA Italian Serie A Cagliari VS Frosinone 00:00 08/11 SẮP DIỄN RA Ital
+https://live2.zktsva.app/live/300523.m3u8
