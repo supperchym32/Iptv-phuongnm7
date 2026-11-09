@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="S8 TV",07:00 09/11 LIVE Queretaro FC
+#EXTINF:-1 group-title="S8 TV",16:00 09/11 LIVE FC Victoria Mykolaivka
 https://media.lauthaitv.site/hls/0542ad8d-1129-454e-b8e1-56e2852582ea/attempt-1/master.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",20:00 09/11 SẮP DIỄN RA English U21 Professional Development League 2 Coventry U21 VS Queens Park Rangers U21 00:00 10/11 SẮP DIỄN RA German Frauen Bundesliga Koln Women VS RB Leipzig Women 15:00 10/11 SẮP DIỄN RA Mongolia Premier
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",22:00 09/11 SẮP DIỄN RA Egyptian Scores Cup ZED FC VS Samanod (EG) 01:00 10/11 SẮP DIỄN RA Norwegian Eliteserien Kristiansund BK VS Vålerenga Fotball Elite 21:00 10/11 SẮP DIỄN RA Algerian Ligue Professionnelle 2 WA Tlemcen VS RC A
-https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",09:05 10/11 SẮP DIỄN RA MEX Liga Premier Chapulineros VS Cordobes Futbol Club 02:00 11/11 SẮP DIỄN RA English Football League Trophy Huddersfield Town VS Liverpool U21 20:00 11/11 SẮP DIỄN RA UEFA European U19 Football Championship
+https://live2.zktsva.app/live/301263.m3u8
