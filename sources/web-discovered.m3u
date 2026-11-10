@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="S8 TV",Sports live
+#EXTINF:-1 group-title="S8 TV",07:00 10/11 LIVE Atletico Junior Barranquilla
 https://media.lauthaitv.site/hls/0542ad8d-1129-454e-b8e1-56e2852582ea/attempt-1/master.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",19:00 10/11 SẮP DIỄN RA International Friendly Vietnam U23 VS Thailand U23 19:00 11/11 SẮP DIỄN RA International Friendly Vietnam VS Chinese Taipei Góc nhìn trận đấu Hvidovre IF vs Aarhus Fremad Hvidovre IF chạm trán Aarhus Fremad
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",03:15 10/11 SẮP DIỄN RA Liga Portugal 2 SCU Torreense VS Uniao Leiria 17:00 11/11 SẮP DIỄN RA J.League Yamazaki Biscuit Levain Cup Kawasaki Frontale VS Kashiwa Reysol Góc nhìn trận đấu FC Botosani vs FC Otelul Galati FC Botosani ch
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",02:30 10/11 SẮP DIỄN RA FA Cup Plymouth Parkway VS Berkhamsted Town 15:00 10/11 SẮP DIỄN RA Mongolia Premier League Deren FC VS FC Ulaanbaatar 03:00 11/11 SẮP DIỄN RA UEFA Women's Champions League AS Roma Women VS Servette Women 18
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",15:00 10/11 SẮP DIỄN RA International Friendly Qatar U23 VS Singapore U23 21:00 10/11 SẮP DIỄN RA Algerian Ligue Professionnelle 2 WA Tlemcen VS RC Arba 03:00 11/11 SẮP DIỄN RA UEFA Women's Champions League Paris Saint Germain Wome
-https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",02:00 11/11 SẮP DIỄN RA English Football League Trophy Huddersfield Town VS Liverpool U21 17:00 11/11 SẮP DIỄN RA J.League Yamazaki Biscuit Levain Cup Vissel Kobe VS Machida Zelvia 22:00 11/11 SẮP DIỄN RA UEFA European U19 Football
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",07:30 10/11 LIVE Bolivian Primera Division Aurora VS Universitario De Vinto 07:30 11/11 SẮP DIỄN RA International Friendly Sint Maarten VS Anguilla 17:00 11/11 SẮP DIỄN RA J.League Yamazaki Biscuit Levain Cup Yokohama F. Marinos VS
+https://live2.zktsva.app/live/307240.m3u8
