@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="S8 TV",15:00 11/11 Luxembourg U17 Sắp diễn ra BẮT ĐẦU SAU 1h 23p Italy U17 NGƯỜI BẠC J.League Cup 17:00 11/11 Vissel Kobe Sắp diễn ra BẮT ĐẦU SAU 3h 23p Machida Zelvia NGƯỜI THỎ J.League Cup 17:00 11/11 Yokohama F.Marinos Sắp diễn ra BẮT
+#EXTINF:-1 group-title="S8 TV",21:00 11/11 LIVE Italy U19
 https://media.lauthaitv.site/hls/0542ad8d-1129-454e-b8e1-56e2852582ea/attempt-1/master.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",00:00 12/11 SẮP DIỄN RA UEFA European U19 Football Championship France U19 VS Norway U19 15:30 12/11 SẮP DIỄN RA Aus Champ APIA Leichhardt Tigers VS Adelaide City FC 22:00 12/11 SẮP DIỄN RA CAF Africa Cup of Nations Ghana VS Somali
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",00:45 12/11 SẮP DIỄN RA UEFA Women's Champions League Oud Heverlee Leuven Women VS HB Koge 's Women 19:00 12/11 SẮP DIỄN RA Danish Reserves League Viborg Reserve VS Vejle Reserve 23:00 12/11 SẮP DIỄN RA CAF Africa Cup of Nations Ma
+https://live2.zktsva.app/live/300523.m3u8
