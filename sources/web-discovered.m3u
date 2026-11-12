@@ -1,3 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="S8 TV",10:00 12/11 LIVE Pachuca Women
+#EXTINF:-1 group-title="S8 TV",Sports live
 https://media.lauthaitv.site/hls/0542ad8d-1129-454e-b8e1-56e2852582ea/attempt-1/master.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",02:45 13/11 SẮP DIỄN RA UEFA Nations League Czechia VS Spain 21:45 13/11 SẮP DIỄN RA International Friendly Qatar VS Australia 02:45 14/11 SẮP DIỄN RA UEFA Nations League Serbia VS Germany 06:00 14/11 SẮP DIỄN RA International Frie
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",23:00 12/11 SẮP DIỄN RA CAF Africa Cup of Nations Equatorial Guinea VS Zimbabwe 02:00 13/11 SẮP DIỄN RA CAF Africa Cup of Nations Cote d'Ivoire VS Gambia 15:00 13/11 SẮP DIỄN RA Mongolia Premier League Deren FC VS Central Stallions
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",23:00 12/11 SẮP DIỄN RA CAF Africa Cup of Nations Madagascar VS Guinea Bissau 02:45 13/11 SẮP DIỄN RA UEFA Nations League San Marino VS Belarus 23:00 13/11 SẮP DIỄN RA CAF Africa Cup of Nations Nigeria VS Tanzania 02:45 14/11 SẮP D
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",05:00 13/11 SẮP DIỄN RA CONCACAF Nations League Aruba VS Martinique 07:30 13/11 SẮP DIỄN RA CONCACAF Nations League Curacao VS Panama 20:00 13/11 SẮP DIỄN RA CAF Africa Cup of Nations Zambia VS Burundi 03:00 14/11 SẮP DIỄN RA CAF A
+https://live2.zktsva.app/live/307240.m3u8
