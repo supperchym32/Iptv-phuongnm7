@@ -1,9 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="S8 TV",15:30 13/11 LIVE Preston Lions
+#EXTINF:-1 group-title="S8 TV",23:00 13/11 LIVE South Africa
 https://media.lauthaitv.site/hls/0542ad8d-1129-454e-b8e1-56e2852582ea/attempt-1/master.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",23:00 13/11 SẮP DIỄN RA CAF Africa Cup of Nations South Africa VS Kenya 02:45 14/11 SẮP DIỄN RA UEFA Nations League Bulgaria VS Iceland 08:00 14/11 SẮP DIỄN RA International Friendly Peru VS Bolivia 21:30 14/11 SẮP DIỄN RA SAFF Cha
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",20:00 13/11 SẮP DIỄN RA CAF Africa Cup of Nations Comoros VS Republic of the Congo 00:00 14/11 SẮP DIỄN RA UEFA Nations League Moldova VS Kazakhstan 02:45 14/11 SẮP DIỄN RA UEFA Nations League Luxembourg VS Estonia 15:30 14/11 SẮP
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",23:00 13/11 SẮP DIỄN RA UEFA European U21 Championship qualification Turkiye U21 VS Czechia Republic U21 02:00 14/11 SẮP DIỄN RA CAF Africa Cup of Nations Mali VS Rwanda 19:30 14/11 SẮP DIỄN RA Thai King's Cup Thailand VS Brunei Da
+#EXTINF:-1 group-title="Gà Vàng 33 TV",02:45 14/11 SẮP DIỄN RA UEFA Nations League Slovakia VS Faroe Islands 20:00 14/11 SẮP DIỄN RA Spanish Segunda Division Real Valladolid CF VS Castellon 22:30 14/11 SẮP DIỄN RA United Arab Emirates ADIB Cup Hatta VS Al-Ain FC 02:00 1
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",02:00 14/11 SẮP DIỄN RA CAF Africa Cup of Nations Mali VS Rwanda 19:30 14/11 SẮP DIỄN RA Thai King's Cup Thailand VS Brunei Darussalam 23:00 14/11 SẮP DIỄN RA CAF Africa Cup of Nations Uganda VS Botswana 02:45 15/11 SẮP DIỄN RA UEF
 https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",02:45 14/11 SẮP DIỄN RA UEFA Nations League Bulgaria VS Iceland 08:00 14/11 SẮP DIỄN RA International Friendly Peru VS Bolivia 21:30 14/11 SẮP DIỄN RA SAFF Championship Bangladesh VS Pakistan 00:30 15/11 SẮP DIỄN RA Spanish Segunda
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",02:45 14/11 SẮP DIỄN RA UEFA Nations League Andorra VS Gibraltar 18:35 14/11 SẮP DIỄN RA Panda Cup China U19 VS Tajikistan U19 22:15 14/11 SẮP DIỄN RA Spanish Segunda Division Real Sociedad B VS Sporting Gijon 00:30 15/11 SẮP DIỄN
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",02:00 14/11 SẮP DIỄN RA CAF Africa Cup of Nations Egypt VS Malawi 19:50 14/11 SẮP DIỄN RA United Arab Emirates ADIB Cup Al Dhafra FC VS Ajman 22:30 14/11 SẮP DIỄN RA United Arab Emirates ADIB Cup Al-Wasl SC VS Al-Nasr Dubai 02:00 1
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",02:45 14/11 SẮP DIỄN RA UEFA Nations League Scotland VS North Macedonia 15:00 14/11 SẮP DIỄN RA International Friendly Thailand U23 VS Singapore U23 02:45 15/11 SẮP DIỄN RA UEFA Nations League Austria VS Ireland 13:00 15/11 SẮP DIỄ
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",02:45 14/11 SẮP DIỄN RA UEFA Nations League Luxembourg VS Estonia 15:30 14/11 SẮP DIỄN RA Aus Champ Bayswater City VS Sydney Olympic 00:00 15/11 SẮP DIỄN RA UEFA Nations League Georgia VS Hungary 02:45 15/11 SẮP DIỄN RA UEFA Nation
+https://live2.zktsva.app/live/741294.m3u8
