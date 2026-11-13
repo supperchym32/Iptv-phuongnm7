@@ -1,11 +1,11 @@
 {
   "source": "https://freem3u.xyz/api/channels/x_1.0.1/app.json",
   "api_index": "505",
-  "generated_utc": "2026-11-13T07:57:56.565420+00:00",
+  "generated_utc": "2026-11-13T15:50:08.522882+00:00",
   "channel_objects": 250,
-  "resolved_channels": 245,
-  "unresolved_channels": 5,
-  "playable_variants_found": 445,
+  "resolved_channels": 247,
+  "unresolved_channels": 3,
+  "playable_variants_found": 447,
   "channels_with_clearkey_variant": 103,
   "groups": [
     "Thể Thao",
@@ -32,14 +32,6 @@
     "Radio Miền Nam"
   ],
   "unresolved": [
-    {
-      "id": "thvli_thieunhi-th-vinh-long",
-      "title": "THVL Thiếu Nhi | TH Vĩnh Long"
-    },
-    {
-      "id": "thvli_chuyen_de-th-vinh-long",
-      "title": "THVL Chuyên Đề | TH Vĩnh Long"
-    },
     {
       "id": "thanh-hoa-fm",
       "title": "THANH HOA RADIO (FM92.3MHz)"
