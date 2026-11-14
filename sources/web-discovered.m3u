@@ -1,15 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="S8 TV",00:30 15/11 LIVE Almeria
+#EXTINF:-1 group-title="S8 TV",04:30 15/11 LIVE Mirassol
 https://media.lauthaitv.site/hls/0542ad8d-1129-454e-b8e1-56e2852582ea/attempt-1/master.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",11:00 15/11 SẮP DIỄN RA Australia W-League Canberra United Women VS Brisbane Roar Women 20:00 15/11 SẮP DIỄN RA Spanish Segunda Division Tenerife VS AD Ceuta 20:00 16/11 SẮP DIỄN RA CAF U17 Championship Algeria U17 VS Egypt U17 23:
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",06:30 15/11 SẮP DIỄN RA Brazilian Serie A Chapecoense - SC VS Vasco da Gama Saf - RJ 14:00 15/11 SẮP DIỄN RA Chinese Football League 1 Guizhou Guiyang Athletic VS Dingnan United 00:30 16/11 SẮP DIỄN RA Spanish Segunda Division Elde
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",06:00 15/11 SẮP DIỄN RA Mexico Liga MX Queretaro FC VS Rayados de Monterrey 08:00 15/11 SẮP DIỄN RA CONCACAF Nations League Jamaica VS Mexico 18:30 15/11 SẮP DIỄN RA Russian First League FC Ufa VS Spartak Kostroma 21:00 15/11 SẮP D
+#EXTINF:-1 group-title="Gà Vàng 33 TV",07:00 15/11 SẮP DIỄN RA CONCACAF Nations League Saint Vincent and the Grenadines VS Belize 17:30 15/11 SẮP DIỄN RA Greek Super League 2 Apollon Kalamarias F.C. VS Kallithea 06:00 16/11 SẮP DIỄN RA CONCACAF Nations League Panama VS
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",08:00 15/11 SẮP DIỄN RA CONCACAF Nations League Jamaica VS Mexico 18:30 15/11 SẮP DIỄN RA Russian First League FC Ufa VS Spartak Kostroma 21:00 15/11 SẮP DIỄN RA English FA Women's Super League West Ham United Women VS Charlton Wom
 https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",19:00 15/11 SẮP DIỄN RA International Friendly Kyrgyzstan VS Vietnam 22:30 15/11 SẮP DIỄN RA United Arab Emirates ADIB Cup Ittihad Kalba FC VS Shabab Al Ahli 02:45 16/11 SẮP DIỄN RA UEFA Nations League Spain VS England 20:00 16/11
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",15:00 15/11 SẮP DIỄN RA J.League Yamazaki Biscuit Levain Cup Kashiwa Reysol VS Kawasaki Frontale 21:00 15/11 SẮP DIỄN RA UEFA Nations League Cyprus VS Montenegro 00:00 16/11 SẮP DIỄN RA UEFA Nations League Belarus VS Albania 20:00
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",13:00 15/11 SẮP DIỄN RA J.League Yamazaki Biscuit Levain Cup Cerezo Osaka VS Urawa Red Diamonds 02:45 16/11 SẮP DIỄN RA UEFA Nations League Belgium VS Italy 22:00 16/11 SẮP DIỄN RA UEFA Nations League Faroe Islands VS Moldova Góc n
-https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",14:00 15/11 SẮP DIỄN RA Chinese Football League 1 Guizhou Guiyang Athletic VS Dingnan United 00:30 16/11 SẮP DIỄN RA Spanish Segunda Division Eldense VS Sabadell 20:00 16/11 SẮP DIỄN RA CAF U17 Championship Tunisia U17 VS Morocco U
+https://live2.zktsva.app/live/796315.m3u8
