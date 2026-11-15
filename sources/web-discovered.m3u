@@ -1,11 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="S8 TV",17:00 15/11 LIVE FK Chelyabinsk
+#EXTINF:-1 group-title="S8 TV",Sports live
 https://media.lauthaitv.site/hls/0542ad8d-1129-454e-b8e1-56e2852582ea/attempt-1/master.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",20:00 16/11 SẮP DIỄN RA CAF U17 Championship Algeria U17 VS Egypt U17 23:00 16/11 SẮP DIỄN RA Elite League U20 Portugal U20 VS England U20 02:00 17/11 SẮP DIỄN RA CONCACAF Nations League Guyana VS Puerto Rico 19:00 17/11 SẮP DIỄN R
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",21:00 15/11 SẮP DIỄN RA UEFA Nations League Latvia VS Armenia 00:00 16/11 SẮP DIỄN RA UEFA Nations League Finland VS San Marino 07:00 16/11 SẮP DIỄN RA USL Championship New Mexico United VS Sacramento Republic FC 23:00 16/11 SẮP DI
+#EXTINF:-1 group-title="Gà Vàng 33 TV",10:10 16/11 SẮP DIỄN RA Mexico Liga MX Femenil Toluca Women VS Club America Women 23:00 16/11 SẮP DIỄN RA CAF Africa Cup of Nations Central African Republic VS Benin 02:00 17/11 SẮP DIỄN RA CONCACAF Nations League Guadeloupe VS Ber
 https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",23:30 15/11 SẮP DIỄN RA English FA Women's Super League Arsenal Women VS London City Lionesses Women 02:30 16/11 SẮP DIỄN RA Uruguay Primera Division Danubio FC VS Liverpool URU 19:00 16/11 SẮP DIỄN RA Serbian Mozzart Bet Prva Liga
+#EXTINF:-1 group-title="Gà Vàng 33 TV",20:00 16/11 SẮP DIỄN RA CAF Africa Cup of Nations Zimbabwe VS Equatorial Guinea 02:45 17/11 SẮP DIỄN RA UEFA Nations League North Macedonia VS Slovenia 13:00 17/11 SẮP DIỄN RA CFA Team China International Tournament Yemen VS Malays
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",02:30 16/11 SẮP DIỄN RA Uruguay Primera Division Danubio FC VS Liverpool URU 19:00 16/11 SẮP DIỄN RA Serbian Mozzart Bet Prva Liga Bor 1919 VS Semendrija 1924 00:00 17/11 SẮP DIỄN RA UEFA Nations League Estonia VS Bulgaria 02:45 17
 https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",21:00 15/11 SẮP DIỄN RA English FA Women's Super League West Ham United Women VS Charlton Women 06:00 16/11 SẮP DIỄN RA Uruguay Primera Division Defensor Sporting Montevideo VS CA Penarol 08:00 16/11 SẮP DIỄN RA Mexico Liga MX Feme
+#EXTINF:-1 group-title="Gà Vàng 33 TV",21:00 16/11 SẮP DIỄN RA Elite League U20 Italy U20 VS Switzerland U20 23:00 16/11 SẮP DIỄN RA CAF Africa Cup of Nations Eritrea VS Guinea 02:45 17/11 SẮP DIỄN RA UEFA Nations League Greece VS Serbia 20:00 17/11 SẮP DIỄN RA CAF Afri
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",06:00 16/11 SẮP DIỄN RA Uruguay Primera Division Defensor Sporting Montevideo VS CA Penarol 21:00 16/11 SẮP DIỄN RA Elite League U20 Czechia Republic U20 VS Germany U20 07:00 17/11 SẮP DIỄN RA CONCACAF Nations League Martinique VS
 https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",19:00 16/11 SẮP DIỄN RA Serbian Mozzart Bet Prva Liga FK Graficar Beograd VS FK Vozdovac Beograd 22:00 16/11 SẮP DIỄN RA CAF Africa Cup of Nations Somalia VS Ghana 00:00 17/11 SẮP DIỄN RA UEFA European U21 Championship qualificatio
+https://live2.zktsva.app/live/289650.m3u8
