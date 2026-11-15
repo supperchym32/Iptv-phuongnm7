@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="S8 TV",04:30 15/11 LIVE Mirassol
+#EXTINF:-1 group-title="S8 TV",08:00 15/11 LIVE Jamaica
 https://media.lauthaitv.site/hls/0542ad8d-1129-454e-b8e1-56e2852582ea/attempt-1/master.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",07:00 15/11 SẮP DIỄN RA CONCACAF Nations League Saint Vincent and the Grenadines VS Belize 17:30 15/11 SẮP DIỄN RA Greek Super League 2 Apollon Kalamarias F.C. VS Kallithea 06:00 16/11 SẮP DIỄN RA CONCACAF Nations League Panama VS
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",08:00 15/11 SẮP DIỄN RA CONCACAF Nations League Jamaica VS Mexico 18:30 15/11 SẮP DIỄN RA Russian First League FC Ufa VS Spartak Kostroma 21:00 15/11 SẮP DIỄN RA English FA Women's Super League West Ham United Women VS Charlton Wom
+#EXTINF:-1 group-title="Gà Vàng 33 TV",18:30 15/11 SẮP DIỄN RA Russian First League FC Ufa VS Spartak Kostroma 21:00 15/11 SẮP DIỄN RA English FA Women's Super League West Ham United Women VS Charlton Women 06:00 16/11 SẮP DIỄN RA Uruguay Primera Division Defensor Sport
 https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",14:00 15/11 SẮP DIỄN RA Chinese Football League 1 Guizhou Guiyang Athletic VS Dingnan United 00:30 16/11 SẮP DIỄN RA Spanish Segunda Division Eldense VS Sabadell 20:00 16/11 SẮP DIỄN RA CAF U17 Championship Tunisia U17 VS Morocco U
-https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",21:00 15/11 SẮP DIỄN RA English FA Women's Super League Aston Villa Women VS Birmingham Women 01:00 16/11 SẮP DIỄN RA Liga Portugal 2 Leixoes VS GD Chaves 19:00 16/11 SẮP DIỄN RA Serbian Mozzart Bet Prva Liga FK Graficar Beograd VS
+https://live2.zktsva.app/live/289650.m3u8
