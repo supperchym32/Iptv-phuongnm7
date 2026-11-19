@@ -1,3 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="S8 TV",15:30 19/11 Queensland Lions SC Sắp diễn ra BẮT ĐẦU SAU 4h 53p South Coast Wolves NGƯỜI BẠC Shopee Cup 19:00 19/11 Persib Bandung Sắp diễn ra BẮT ĐẦU SAU 8h 23p Shan United NGƯỜI BẠC Shopee Cup 19:00 19/11 Svay Rieng FC Sắp diễn ra
+#EXTINF:-1 group-title="S8 TV",19:00 19/11 LIVE Persib Bandung
 https://media.lauthaitv.site/hls/0542ad8d-1129-454e-b8e1-56e2852582ea/attempt-1/master.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",23:00 19/11 SẮP DIỄN RA FIFA U17 World Cup Argentina U17 VS Australia U17 17:00 20/11 SẮP DIỄN RA Japanese J1 League Kashiwa Reysol VS JEF United Ichihara Chiba 20:00 20/11 SẮP DIỄN RA FIFA U17 World Cup Belgium U17 VS Vietnam U17
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",21:00 19/11 SẮP DIỄN RA FIFA U17 World Cup Saudi Arabia U17 VS Uruguay U17 03:00 20/11 SẮP DIỄN RA UEFA Women's Champions League Arsenal Women VS OL Lyonnes Women 15:30 20/11 SẮP DIỄN RA Indonesian Super League PSS Sleman VS Arema
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",22:30 19/11 SẮP DIỄN RA Qatar Stars League Al-Ahli Sports Club(Qatar) VS Al-Shamal Sports Club 01:00 20/11 SẮP DIỄN RA Egyptian Scores Cup ZED FC VS Smouha SC 15:30 20/11 SẮP DIỄN RA Aus Champ Sydney United 58 FC VS Sutherland Shar
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",23:00 19/11 SẮP DIỄN RA FIFA U17 World Cup Egypt U17 VS Greece U17 02:25 20/11 SẮP DIỄN RA Uruguay Primera Division CA Boston River VS Deportivo Maldonado 15:30 20/11 SẮP DIỄN RA Aus Champ South Melbourne VS Canberra FC 20:30 20/11
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",05:30 20/11 SẮP DIỄN RA Brazilian Serie A Vitória - BA VS Red Bull Bragantino 10:00 20/11 SẮP DIỄN RA United States Major League Soccer Seattle Sounders VS Real Salt Lake 17:00 20/11 SẮP DIỄN RA Japanese J1 League Vissel Kobe VS Mi
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",07:30 20/11 SẮP DIỄN RA United States Major League Soccer Orlando City VS FC Cincinnati 15:00 20/11 SẮP DIỄN RA AFC U17 Asian Cup Chinese Taipei U17 VS Hong Kong U17 17:00 20/11 SẮP DIỄN RA Vietnam National First Class League Ho Ch
+https://live2.zktsva.app/live/301263.m3u8
