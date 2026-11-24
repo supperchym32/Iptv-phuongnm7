@@ -1,7 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="S8 TV",17:00 24/11 LIVE Kyoto Sanga
+#EXTINF:-1 group-title="S8 TV",03:00 25/11 LIVE Real Madrid
 https://media.lauthaitv.site/hls/0542ad8d-1129-454e-b8e1-56e2852582ea/attempt-1/master.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",22:00 24/11 SẮP DIỄN RA Georgia Erovnuli Liga Gagra FC VS Dinamo Tbilisi 00:45 25/11 SẮP DIỄN RA UEFA Champions League Galatasaray VS Aston Villa 17:00 25/11 SẮP DIỄN RA Japanese J1 League Okayama VS Shimizu S-Pulse 20:30 25/11 SẮP
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",17:00 24/11 LIVE AFC Champions League Elite Daejeon Hana Citizen VS Beijing Guoan 03:00 25/11 SẮP DIỄN RA UEFA Champions League Arsenal VS Borussia Dortmund 17:00 25/11 SẮP DIỄN RA AFC Champions League Elite Kashima Antlers VS Jeon
+#EXTINF:-1 group-title="Gà Vàng 33 TV",17:00 25/11 SẮP DIỄN RA AFC Champions League Elite Gamba Osaka VS Port FC 22:30 25/11 SẮP DIỄN RA FIFA U17 World Cup Denmark U17 VS Argentina U17 00:45 26/11 SẮP DIỄN RA UEFA Champions League Sabah Baku VS FC Barcelona 03:00 26/11
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",17:00 25/11 SẮP DIỄN RA AFC Champions League Elite Kashima Antlers VS Jeonbuk Hyundai Motors 20:30 25/11 SẮP DIỄN RA FIFA U17 World Cup Uruguay U17 VS France U17 03:00 26/11 SẮP DIỄN RA UEFA Champions League Club Brugge VS Liverpoo
 https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",14:45 25/11 SẮP DIỄN RA AFC Champions League Two Melbourne Victory VS The Cong-Viettel 19:15 25/11 SẮP DIỄN RA AFC Champions League Two Persib Bandung VS FC Seoul 23:00 25/11 SẮP DIỄN RA AFC Champions League Two Al-Muharraq VS Arka
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",17:00 25/11 SẮP DIỄN RA Japanese J1 League Mito Hollyhock VS Tokyo Verdy 20:00 25/11 SẮP DIỄN RA UEFA Youth League Sporting CP U19 VS Manchester United U19 23:00 25/11 SẮP DIỄN RA AFC Champions League Two Al-Jazira(UAE) VS Gol Goha
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",19:00 25/11 SẮP DIỄN RA Serbian Mozzart Bet Superliga Radnicki Nis VS FK Zeleznicar Pancevo 21:30 25/11 SẮP DIỄN RA FIFA U17 World Cup Panama U17 VS Egypt U17 00:45 26/11 SẮP DIỄN RA UEFA Champions League SK Slavia Praha VS Villarr
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",17:00 25/11 SẮP DIỄN RA Japanese J1 League JEF United Ichihara Chiba VS Nagoya Grampus 20:45 25/11 SẮP DIỄN RA AFC Champions League Two Nasaf Qarshi VS Al Khaldiya 23:00 25/11 SẮP DIỄN RA AFC Champions League Two Al-Faisaly Amman V
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",17:00 25/11 SẮP DIỄN RA Japanese J1 League FC Tokyo VS Sanfrecce Hiroshima 19:30 25/11 SẮP DIỄN RA FIFA U17 World Cup Uganda U17 VS New Caledonia U17 22:30 25/11 SẮP DIỄN RA FIFA U17 World Cup Australia U17 VS Mozambique U17 00:45
+https://live2.zktsva.app/live/303098.m3u8
