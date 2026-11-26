@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="S8 TV",Sports live
+#EXTINF:-1 group-title="S8 TV",15:30 26/11 LIVE Borneo FC
 https://media.lauthaitv.site/hls/0542ad8d-1129-454e-b8e1-56e2852582ea/attempt-1/master.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",21:00 26/11 SẮP DIỄN RA Russian Cup FC Orenburg VS Spartak Moscow 23:00 26/11 SẮP DIỄN RA FIFA U17 World Cup Croatia U17 VS Cuba U17 Góc nhìn trận đấu Atlético Mineiro - MG vs Corinthians - SP Atlético Mineiro - MG chạm trán Corint
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",08:30 26/11 SẮP DIỄN RA Categoría Primera A Atletico Nacional Medellin VS Dep.Independiente Medellin 19:15 26/11 SẮP DIỄN RA AFC Champions League Two BG Pathum United VS Lion City Sailors 22:00 26/11 SẮP DIỄN RA FIFA U17 World Cup
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",17:30 26/11 SẮP DIỄN RA Azerbaijan First Division Baku Sporting FK VS Shahdagh Qusar 22:05 26/11 SẮP DIỄN RA Saudi Professional League Abha VS Al Shabab Góc nhìn trận đấu Boca Juniors vs Independiente Rivadavia Boca Juniors chạm tr
-https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",21:25 26/11 SẮP DIỄN RA Saudi Professional League Al Fateh VS Al Riyadh 00:45 27/11 SẮP DIỄN RA UEFA Europa League Dinamo Zagreb VS Bayer 04 Leverkusen 03:00 27/11 SẮP DIỄN RA UEFA Europa League TSG Hoffenheim VS Sturm Graz 18:00 2
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",00:45 27/11 SẮP DIỄN RA UEFA Champions League Brighton Hove Albion VS CS Universitatea Craiova 03:00 27/11 SẮP DIỄN RA UEFA Europa League Crystal Palace VS Real Sociedad 18:00 27/11 SẮP DIỄN RA Vietnam National Champion League Song
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",21:00 26/11 SẮP DIỄN RA FIFA U17 World Cup Jamaica U17 VS Cote d'Ivoire U17 00:45 27/11 SẮP DIỄN RA UEFA Europa League Red Bull Salzburg VS Ararat-Armenia FC 03:00 27/11 SẮP DIỄN RA UEFA Champions League Borac Banja Luka VS Atalant
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",20:00 26/11 SẮP DIỄN RA FIFA U17 World Cup New Zealand U17 VS Belgium U17 23:00 26/11 SẮP DIỄN RA FIFA U17 World Cup Tajikistan U17 VS Senegal U17 03:00 27/11 SẮP DIỄN RA UEFA Europa League AC Sparta Praha VS AZ Alkmaar 17:30 27/11
+https://live2.zktsva.app/live/289650.m3u8
