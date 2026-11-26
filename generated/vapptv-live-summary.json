@@ -1,11 +1,11 @@
 {
   "source": "https://freem3u.xyz/api/channels/x_1.0.1/app.json",
   "api_index": "505",
-  "generated_utc": "2026-11-26T02:12:43.233971+00:00",
+  "generated_utc": "2026-11-26T10:53:41.324732+00:00",
   "channel_objects": 250,
   "resolved_channels": 247,
   "unresolved_channels": 3,
-  "playable_variants_found": 446,
+  "playable_variants_found": 447,
   "channels_with_clearkey_variant": 103,
   "groups": [
     "Thể Thao",
