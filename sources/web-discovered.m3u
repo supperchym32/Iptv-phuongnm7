@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="S8 TV",10:00 25/11 LIVE San Jose Earthquakes
+#EXTINF:-1 group-title="S8 TV",Sports live
 https://media.lauthaitv.site/hls/0542ad8d-1129-454e-b8e1-56e2852582ea/attempt-1/master.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",19:00 25/11 SẮP DIỄN RA IDN LC Bali United VS Barito Putera 22:00 25/11 SẮP DIỄN RA Russian Cup Akhmat Grozny VS FK Krasnodar 06:20 26/11 SẮP DIỄN RA Categoría Primera A Independiente Santa Fe VS Deportiva Once Caldas 08:30 26/11 S
+#EXTINF:-1 group-title="Gà Vàng 33 TV",21:00 26/11 SẮP DIỄN RA Russian Cup FC Orenburg VS Spartak Moscow 23:00 26/11 SẮP DIỄN RA FIFA U17 World Cup Croatia U17 VS Cuba U17 Góc nhìn trận đấu Atlético Mineiro - MG vs Corinthians - SP Atlético Mineiro - MG chạm trán Corint
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",08:30 26/11 SẮP DIỄN RA Categoría Primera A Atletico Nacional Medellin VS Dep.Independiente Medellin 19:15 26/11 SẮP DIỄN RA AFC Champions League Two BG Pathum United VS Lion City Sailors 22:00 26/11 SẮP DIỄN RA FIFA U17 World Cup
 https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",17:30 26/11 SẮP DIỄN RA Azerbaijan First Division Baku Sporting FK VS Shahdagh Qusar 22:05 26/11 SẮP DIỄN RA Saudi Professional League Abha VS Al Shabab Góc nhìn trận đấu Boca Juniors vs Independiente Rivadavia Boca Juniors chạm tr
+https://live2.zktsva.app/live/306290.m3u8
