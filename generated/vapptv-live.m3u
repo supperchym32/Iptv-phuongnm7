@@ -304,7 +304,7 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 https://s935.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
 #EXTINF:-1 tvg-id="bloomberg-tieng-anh" tvg-name="BLOOMBERG - Tiếng Anh" tvg-chno="306" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Tin Tức",BLOOMBERG - Tiếng Anh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
-https://dai.google.com/linear/hls/pa/event/PwTJe4aZRvSBjbWY7_VSzA/stream/cd4ea4e9-33ad-4195-9abe-0acbf347ea53:DLS/master.m3u8
+https://dai.google.com/linear/hls/pa/event/PwTJe4aZRvSBjbWY7_VSzA/stream/33aeb817-f681-423e-88a8-7b0d152c9a27:DLS/master.m3u8
 #EXTINF:-1 tvg-id="cnn.VN" tvg-name="CNN - Việt Nam" tvg-chno="499" tvg-logo="https://freem3u.xyz/static/images/global/cnn.png" group-title="Tin Tức",CNN - Việt Nam
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -648,9 +648,22 @@ https://freem3u.xyz/api/live/play.m3u8?vid=220
 #EXTINF:-1 tvg-id="thvl5hd.VN" tvg-name="THVL5 HD | TH Vĩnh Long" tvg-chno="97" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong5.png" group-title="THVL",THVL5 HD | TH Vĩnh Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
 https://freem3u.xyz/api/live/play.m3u8?vid=91
+#EXTINF:-1 tvg-id="thvli_phim.VN" tvg-name="THVL Phim | TH Vĩnh Long" tvg-chno="98" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong_phim.png" group-title="THVL",THVL Phim | TH Vĩnh Long
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
+https://amg30823-amg30823c5-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c5-amgplt0985/playlist.m3u8?genre=Drama&content_livestream=1&ic=IAB1-7
+#EXTINF:-1 tvg-id="thvli_giai_tri.VN" tvg-name="THVL Giải Trí | TH Vĩnh Long" tvg-chno="99" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong_giaitri.png" group-title="THVL",THVL Giải Trí | TH Vĩnh Long
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
+https://amg30823-amg30823c6-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c6-amgplt0985/playlist.m3u8?genre=Entertainment&content_livestream=1&ic=IAB1-7
+#EXTINF:-1 tvg-id="thvli_thieu_nhi.VN" tvg-name="THVL Thiếu Nhi | TH Vĩnh Long" tvg-chno="112" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong_thieunhi.png" group-title="THVL",THVL Thiếu Nhi | TH Vĩnh Long
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
+https://amg30823-amg30823c7-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c7-amgplt0985/playlist.m3u8?genre=Children&content_livestream=1&ic=IAB1-7
+#EXTINF:-1 tvg-id="thvli_chuyen_de.VN" tvg-name="THVL Chuyên Đề | TH Vĩnh Long" tvg-chno="120" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong_chuyende.png" group-title="THVL",THVL Chuyên Đề | TH Vĩnh Long
+#EXTVLCOPT:http-referrer=https://vieon.vn/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
+https://amg30823-amg30823c8-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c8-amgplt0985/playlist.m3u8?genre=Documentary&content_livestream=1&ic=IAB1-7
 #EXTINF:-1 tvg-id="vinhlong.FM90_2.VN" tvg-name="VINH LONG (FM90.2MHz)" tvg-chno="278" tvg-logo="https://freem3u.xyz/static/images/radio/vinhlong.png" group-title="THVL",VINH LONG (FM90.2MHz)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
-https://catchup.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImEzMmM0Zjc5LWU4YjktNDI1Yi1iMzJlLWFkZjdmMTg5ZGViMyIsImV4cCI6MTc5NTY1NTQ3NSwidXJpIjoiL3JhZGlvIiwiaWF0IjoxNzk1NjMzODc1fQ.8zP_2bWP_fI0J5wmeCo7bTFbwuJbvfcO9v9OCZCo6pg-/radio/playlist.m3u8
+https://catchup.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImZmNjE5M2RhLTVjMWUtNGMxMC05YmRlLWJiM2RkZDAzOWQxMSIsImV4cCI6MTc5NTY4MDU3NCwidXJpIjoiL3JhZGlvIiwiaWF0IjoxNzk1NjU4OTc0fQ.TKT8Dq-brfUuDhmp_JVkPgqdTbKU4mpCBVo_UEXvmBQ-/radio/playlist.m3u8
 #EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN - China Global Television Network" tvg-chno="106" tvg-logo="https://freem3u.xyz/static/images/china/CGTN.png" group-title="Quốc Tế",CGTN - China Global Television Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
@@ -829,7 +842,7 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 https://s935.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
 #EXTINF:-1 tvg-id="bloomberg-tieng-anh" tvg-name="BLOOMBERG - Tiếng Anh" tvg-chno="306" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Quốc Tế",BLOOMBERG - Tiếng Anh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
-https://dai.google.com/linear/hls/pa/event/PwTJe4aZRvSBjbWY7_VSzA/stream/cd4ea4e9-33ad-4195-9abe-0acbf347ea53:DLS/master.m3u8
+https://dai.google.com/linear/hls/pa/event/PwTJe4aZRvSBjbWY7_VSzA/stream/33aeb817-f681-423e-88a8-7b0d152c9a27:DLS/master.m3u8
 #EXTINF:-1 tvg-id="davinci.VN" tvg-name="DaVinci HD - Việt Nam" tvg-chno="479" tvg-logo="https://freem3u.xyz/static/images/global/davinci.png" group-title="Quốc Tế",DaVinci HD - Việt Nam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
 https://freem3u.xyz/api/live/play.m3u8?vid=214
@@ -969,6 +982,12 @@ https://livecdn-global-vnd.vieon.vn/htv_drm/live_event/trailer_vieon_tvc/playlis
 #EXTINF:-1 tvg-id="thvl5hd.VN" tvg-name="THVL5 HD | TH Vĩnh Long" tvg-chno="97" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong5.png" group-title="Địa Phương",THVL5 HD | TH Vĩnh Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
 https://freem3u.xyz/api/live/play.m3u8?vid=91
+#EXTINF:-1 tvg-id="thvli_phim.VN" tvg-name="THVL Phim | TH Vĩnh Long" tvg-chno="98" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong_phim.png" group-title="Địa Phương",THVL Phim | TH Vĩnh Long
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
+https://amg30823-amg30823c5-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c5-amgplt0985/playlist.m3u8?genre=Drama&content_livestream=1&ic=IAB1-7
+#EXTINF:-1 tvg-id="thvli_giai_tri.VN" tvg-name="THVL Giải Trí | TH Vĩnh Long" tvg-chno="99" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong_giaitri.png" group-title="Địa Phương",THVL Giải Trí | TH Vĩnh Long
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
+https://amg30823-amg30823c6-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c6-amgplt0985/playlist.m3u8?genre=Entertainment&content_livestream=1&ic=IAB1-7
 #EXTINF:-1 tvg-id="dongnai1.VN" tvg-name="ĐNRTV1 HD | TH Đồng Nai" tvg-chno="100" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/dongnai1.png" group-title="Địa Phương",ĐNRTV1 HD | TH Đồng Nai
 #EXTVLCOPT:http-referrer=https://vieon.vn/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
@@ -1003,6 +1022,9 @@ https://livecdn-global-vnd.vieon.vn/htv_drm/live_event/trailer_vieon_tvc/playlis
 #EXTINF:-1 tvg-id="daklak.VN" tvg-name="DRT HD | TH Đắk Lắk" tvg-chno="111" tvg-logo="https://freem3u.xyz/static/images/diaphuong/daklak.png" group-title="Địa Phương",DRT HD | TH Đắk Lắk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
+#EXTINF:-1 tvg-id="thvli_thieu_nhi.VN" tvg-name="THVL Thiếu Nhi | TH Vĩnh Long" tvg-chno="112" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong_thieunhi.png" group-title="Địa Phương",THVL Thiếu Nhi | TH Vĩnh Long
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
+https://amg30823-amg30823c7-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c7-amgplt0985/playlist.m3u8?genre=Children&content_livestream=1&ic=IAB1-7
 #EXTINF:-1 tvg-id="gialai.VN" tvg-name="GTV | TH Gia Lai" tvg-chno="113" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/gialai.png" group-title="Địa Phương",GTV | TH Gia Lai
 #EXTVLCOPT:http-referrer=https://vieon.vn/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
@@ -1016,6 +1038,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=65
 #EXTINF:-1 tvg-id="khanhhoa1.VN" tvg-name="KTV1 HD | TH Khánh Hòa" tvg-chno="117" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/khanhhoa1.png" group-title="Địa Phương",KTV1 HD | TH Khánh Hòa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
 https://freem3u.xyz/api/live/play.m3u8?vid=76
+#EXTINF:-1 tvg-id="thvli_chuyen_de.VN" tvg-name="THVL Chuyên Đề | TH Vĩnh Long" tvg-chno="120" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong_chuyende.png" group-title="Địa Phương",THVL Chuyên Đề | TH Vĩnh Long
+#EXTVLCOPT:http-referrer=https://vieon.vn/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
+https://amg30823-amg30823c8-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c8-amgplt0985/playlist.m3u8?genre=Documentary&content_livestream=1&ic=IAB1-7
 #EXTINF:-1 tvg-id="quangngai.VN" tvg-name="QuangNgaiTV1 | TH Quảng Ngãi" tvg-chno="121" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/quangngai_1.png?t=1" group-title="Địa Phương",QuangNgaiTV1 | TH Quảng Ngãi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
@@ -1174,6 +1200,12 @@ https://livecdn-global-vnd.vieon.vn/htv_drm/live_event/trailer_vieon_tvc/playlis
 #EXTINF:-1 tvg-id="thvl5hd.VN" tvg-name="THVL5 HD | TH Vĩnh Long" tvg-chno="97" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong5.png" group-title="Miền Nam",THVL5 HD | TH Vĩnh Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
 https://freem3u.xyz/api/live/play.m3u8?vid=91
+#EXTINF:-1 tvg-id="thvli_phim.VN" tvg-name="THVL Phim | TH Vĩnh Long" tvg-chno="98" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong_phim.png" group-title="Miền Nam",THVL Phim | TH Vĩnh Long
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
+https://amg30823-amg30823c5-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c5-amgplt0985/playlist.m3u8?genre=Drama&content_livestream=1&ic=IAB1-7
+#EXTINF:-1 tvg-id="thvli_giai_tri.VN" tvg-name="THVL Giải Trí | TH Vĩnh Long" tvg-chno="99" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong_giaitri.png" group-title="Miền Nam",THVL Giải Trí | TH Vĩnh Long
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
+https://amg30823-amg30823c6-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c6-amgplt0985/playlist.m3u8?genre=Entertainment&content_livestream=1&ic=IAB1-7
 #EXTINF:-1 tvg-id="dongnai1.VN" tvg-name="ĐNRTV1 HD | TH Đồng Nai" tvg-chno="100" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/dongnai1.png" group-title="Miền Nam",ĐNRTV1 HD | TH Đồng Nai
 #EXTVLCOPT:http-referrer=https://vieon.vn/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
@@ -1195,6 +1227,13 @@ https://618b88f69e53b.streamlock.net/THDT2/thdttv2/playlist.m3u8
 #EXTINF:-1 tvg-id="cantho2.VN" tvg-name="Cần Thơ TV 2 | TH Cần Thơ" tvg-chno="105" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/cantho2_new.png" group-title="Miền Nam",Cần Thơ TV 2 | TH Cần Thơ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
 https://freem3u.xyz/api/live/play.m3u8?vid=61
+#EXTINF:-1 tvg-id="thvli_thieu_nhi.VN" tvg-name="THVL Thiếu Nhi | TH Vĩnh Long" tvg-chno="112" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong_thieunhi.png" group-title="Miền Nam",THVL Thiếu Nhi | TH Vĩnh Long
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
+https://amg30823-amg30823c7-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c7-amgplt0985/playlist.m3u8?genre=Children&content_livestream=1&ic=IAB1-7
+#EXTINF:-1 tvg-id="thvli_chuyen_de.VN" tvg-name="THVL Chuyên Đề | TH Vĩnh Long" tvg-chno="120" tvg-logo="https://freem3u.xyz/static/images/diaphuong/vinhlong_chuyende.png" group-title="Miền Nam",THVL Chuyên Đề | TH Vĩnh Long
+#EXTVLCOPT:http-referrer=https://vieon.vn/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
+https://amg30823-amg30823c8-amgplt0985.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30823-amg30823c8-amgplt0985/playlist.m3u8?genre=Documentary&content_livestream=1&ic=IAB1-7
 #EXTINF:-1 tvg-id="hanoi1.VN" tvg-name="HanoiTV1 HD" tvg-chno="123" tvg-logo="https://freem3u.xyz/static/images/diaphuong/hanoi1.png" group-title="Miền Bắc",HanoiTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
@@ -1393,7 +1432,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=10040
 http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vinhlong.FM90_2.VN" tvg-name="VINH LONG (FM90.2MHz)" tvg-chno="278" tvg-logo="https://freem3u.xyz/static/images/radio/vinhlong.png" group-title="Radio Miền Nam",VINH LONG (FM90.2MHz)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
-https://catchup.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImEzMmM0Zjc5LWU4YjktNDI1Yi1iMzJlLWFkZjdmMTg5ZGViMyIsImV4cCI6MTc5NTY1NTQ3NSwidXJpIjoiL3JhZGlvIiwiaWF0IjoxNzk1NjMzODc1fQ.8zP_2bWP_fI0J5wmeCo7bTFbwuJbvfcO9v9OCZCo6pg-/radio/playlist.m3u8
+https://catchup.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImZmNjE5M2RhLTVjMWUtNGMxMC05YmRlLWJiM2RkZDAzOWQxMSIsImV4cCI6MTc5NTY4MDU3NCwidXJpIjoiL3JhZGlvIiwiaWF0IjoxNzk1NjU4OTc0fQ.TKT8Dq-brfUuDhmp_JVkPgqdTbKU4mpCBVo_UEXvmBQ-/radio/playlist.m3u8
 #EXTINF:-1 tvg-id="dongthap.FM98_4.VN" tvg-name="DONG THAP (FM98.4MHz)" tvg-chno="282" tvg-logo="https://freem3u.xyz/static/images/radio/dongthap.png" group-title="Radio Miền Nam",DONG THAP (FM98.4MHz)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S918B Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.111 Mobile Safari/537.36 vAppTV/1.0.2
 https://618b88f69e53b.streamlock.net/THDTR/thdtradio/playlist.m3u8
