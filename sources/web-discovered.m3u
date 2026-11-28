@@ -1,5 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="S8 TV",10:00 28/11 LIVE Real Salt Lake
+#EXTINF:-1 group-title="S8 TV",18:00 28/11 LIVE Rubin Kazan
 https://media.lauthaitv.site/hls/0542ad8d-1129-454e-b8e1-56e2852582ea/attempt-1/master.m3u8
-#EXTINF:-1 group-title="Gà Vàng 33 TV",19:00 28/11 SẮP DIỄN RA German Bundesliga 2 Hertha Berlin VS Karlsruher SC 21:30 28/11 SẮP DIỄN RA Bundesliga FC Köln VS SV 07 Elversberg Góc nhìn trận đấu Real Salt Lake vs Vancouver Whitecaps Real Salt Lake chạm trán Vancouver Wh
+#EXTINF:-1 group-title="Gà Vàng 33 TV",22:00 28/11 SẮP DIỄN RA English Football League Championship Queens Park Rangers VS Sheffield United 07:00 29/11 SẮP DIỄN RA Brazilian Serie A Botafogo - RJ VS Bahia - BA 18:30 29/11 SẮP DIỄN RA Italian Serie A Udinese VS Fiorentin
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",22:00 28/11 SẮP DIỄN RA English Football League Championship West Ham United VS Stoke City 00:30 29/11 SẮP DIỄN RA Bundesliga VfB Stuttgart VS Eintracht Frankfurt 17:00 29/11 SẮP DIỄN RA Russian Premier League FC Orenburg VS Rodina
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",21:30 28/11 SẮP DIỄN RA Bundesliga 1. FSV Mainz 05 VS 1. FC Union Berlin 00:45 29/11 SẮP DIỄN RA Netherlands Eredivisie PSV Eindhoven VS Go Ahead Eagles 10:10 29/11 SẮP DIỄN RA Mexico Liga MX Club America VS Rayados de Monterrey 17
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",21:30 28/11 SẮP DIỄN RA Bundesliga SC Paderborn 07 VS Schalke 04 00:00 29/11 SẮP DIỄN RA Italian Serie A Torino VS Lazio 13:00 29/11 SẮP DIỄN RA Japanese J1 League Kawasaki Frontale VS Gamba Osaka 15:30 30/11 SẮP DIỄN RA Indonesian
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",21:30 28/11 SẮP DIỄN RA Bundesliga FC Köln VS SV 07 Elversberg 06:00 29/11 SẮP DIỄN RA Argentina Division 1 Velez Sarsfield VS CA Independiente 08:00 29/11 SẮP DIỄN RA Mexico Liga MX Atlas VS Toluca 15:30 29/11 SẮP DIỄN RA Indonesi
 https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="Gà Vàng 33 TV",22:30 28/11 SẮP DIỄN RA Portuguese Primeria Liga FC Arouca VS Rio Ave 02:45 29/11 SẮP DIỄN RA French Ligue 1 Havre Athletic Club VS RC Strasbourg Alsace 14:00 29/11 SẮP DIỄN RA Japanese J1 League Machida Zelvia VS Tokyo Verdy 19:00
+https://live2.zktsva.app/live/301263.m3u8
